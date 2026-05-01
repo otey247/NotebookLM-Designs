@@ -33,7 +33,7 @@ Quotation as the primary visual element — in large italic serif, centered or l
 
 ## Graphic Elements & Decorations
 
-Large decorative quotation mark (66 opening quote) in warm gold. Attribution line beneath each testimony. Portrait photograph with warm tonal treatment. Simple horizontal rule in warm gold before or after the testimony. "RECORDED IN [LOCATION] · [DATE]" context stamp in small caps. Community or project logo mark. Testimony collection series number.
+Large decorative opening quotation mark (") in warm gold. Attribution line beneath each testimony. Portrait photograph with warm tonal treatment. Simple horizontal rule in warm gold before or after the testimony. "RECORDED IN [LOCATION] · [DATE]" context stamp in small caps. Community or project logo mark. Testimony collection series number.
 
 ## Slide Types & Templates
 

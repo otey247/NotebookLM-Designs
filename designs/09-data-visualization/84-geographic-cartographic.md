@@ -9,7 +9,7 @@
 
 ## Visual Direction
 
-Mapbox studio aesthetics, Census Bureau statistical map standards, ESRI ArcGIS cartographic conventions — chloropleth maps, graduated symbol maps, flow maps with proportional arrows, and the specific visual vocabulary of professional cartographic data presentation. Geography IS the insight.
+Mapbox studio aesthetics, Census Bureau statistical map standards, ESRI ArcGIS cartographic conventions — choropleth maps, graduated symbol maps, flow maps with proportional arrows, and the specific visual vocabulary of professional cartographic data presentation. Geography IS the insight.
 
 ## Background & Texture
 
